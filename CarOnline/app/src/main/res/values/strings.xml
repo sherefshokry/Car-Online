@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CarOnline</string>
+    <string name="title_activity_CarBrandsActivity">CarBrandsActivity</string>
+    <string name="title_activity_cars">CarsActivity</string>
+    <string name="title_activity_information">CarInformationActivity</string>
+    <string name="title_activity_services_centers_brands">ServicesCentersBrandsActivity</string>
+    <string name="title_activity_services_centers">ServicesCentersActivity</string>
+    <string name="title_activity_services_centers_information">serviceCenterInformationActivity</string>
+
+
+</resources>
